@@ -1,0 +1,15 @@
+- 👋 Hi, I’m @secairns32
+- 👀 I’m interested in Computer Progrmming!
+- 🌱 I’m currently learning: 
+     - React Native
+     - C++
+     - Python
+     - Visual Basic
+     - HTML & CSS
+     - SQL/NoSQL
+     - Java
+     - JavaScript
+     - and many more!
+- 💞️ I’m looking to collaborate oneveything!
+-     - I am open to working and inproving my skills as a programmer. I will take evey oppertunity that comes my way!
+- 📫 How to reach me @secairns32 on GitHub and Twitter. See there!
