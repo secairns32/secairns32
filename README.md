@@ -12,4 +12,4 @@
      - and many more!
 - 💞️ I’m looking to collaborate oneveything!
 -     - I am open to working and inproving my skills as a programmer. I will take evey oppertunity that comes my way!
-- 📫 How to reach me @secairns32 on GitHub and Twitter. See there!
+- 📫 How to reach me @secairns32 on GitHub and Twitter. See you there!
